@@ -5,7 +5,7 @@ This repository is part of my go grpc Ecommerce Microservice Project:
 
 ## Repositories :-
 
-https://github.com/fazilnbr/go-grpc-order-svc   - Cart Service (gRPC)
+https://github.com/fazilnbr/go-grpc-order-svc   - Order Service (gRPC)
 
 https://github.com/fazilnbr/go-grpc-product-svc - Product Service (gRPC)
 
